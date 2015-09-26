@@ -72,7 +72,7 @@ setup(
     # package_data={
     #     'scripts': ['scripts/instantRst.py'],
     # },
-    package_data={'static': ['rhythm.css', 'molokai.css'],
+    package_data={'static': ['github-markdown.css'],
                 'templates':['index.html', 'index.rst']},
     # package_data = {
     #     '': ['*.txt', '*.rst','*.css','*.html'],
